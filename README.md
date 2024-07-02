@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🌱 Skills
+## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTBkMmU4ZG81MmlzeWZ3OTc1YXZubjltY21scnNoZHlzeTF0NWlzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3d2yl0QuHpHdYtfwVh/giphy.webp" width="28"> Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=7&i=html,css,js,ts,php,python,go,laravel,react,docker,aws,git,github,figma,notion" />
 <br>
 
-## 🏃‍♀️ Activities
+## 🏃‍♀ Activities
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taiga2022&layout=compact&show_icons=true&theme=onedark" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Taiga2022&theme=onedark&show_icons=ture" />
