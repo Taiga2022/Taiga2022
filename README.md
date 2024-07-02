@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=7&i=html,css,js,ts,react,figma,python,go,docker,aws,git,github,php,laravel,notion" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=7&i=html,css,js,ts,php,python,go,laravel,react,docker,aws,git,github,figma,notion" />
 <br>
 
 ## 🏃‍♀️ Activities
