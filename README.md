@@ -20,5 +20,9 @@ Here are some ideas to get you started:
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Taiga2022&theme=onedark&show_icons=ture" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Taiga2022&theme=onedark&column=7
+[![trophy](https://github-profile-trophy.vercel.app/?username=Taiga2022&theme=onedark&column=8
 )](https://github.com/ryo-ma/github-profile-trophy)
+
+[![](https://raw.githubusercontent.com/Taiga2022/Taiga2022/main/profile-summary-card-output/gruvbox/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Taiga2022/Taiga2022/main/profile-summary-card-output/gruvbox/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Taiga2022/Taiga2022/main/profile-summary-card-output/gruvbox/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Taiga2022/Taiga2022/main/profile-summary-card-output/gruvbox/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Taiga2022/Taiga2022/main/profile-summary-card-output/gruvbox/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
