@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 
 ## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTBkMmU4ZG81MmlzeWZ3OTc1YXZubjltY21scnNoZHlzeTF0NWlzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3d2yl0QuHpHdYtfwVh/giphy.webp" width="28"> Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=7&i=html,css,js,ts,php,python,go,laravel,react,docker,aws,git,github,figma,notion" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=7&i=html,css,js,ts,php,python,go,laravel,react,vue,nuxtjs,graphql,md,docker,aws,git,github,figma,notion" />
 <br>
 
 ## 🏃‍♀ Activities
