@@ -19,9 +19,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTBkMmU4ZG81MmlzeWZ3OTc1YXZubjltY21scnNoZHlzeTF0NWlzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3d2yl0QuHpHdYtfwVh/giphy.webp" width="28"> Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=7&i=html,css,js,ts,php,python,go,c,laravel,react,vue,nuxtjs,graphql,md,docker,aws,git,github,figma,notion,neovim" />
+##  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTBkMmU4ZG81MmlzeWZ3OTc1YXZubjltY21scnNoZHlzeTF0NWlzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3d2yl0QuHpHdYtfwVh/giphy.webp" width="28"> Skills
+
+###  tools
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=7&i=graphql,md,docker,aws,git,github,figma,notion,neovim" />
 <br>
+
+###  programming langages
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=7&i=html,css,js,ts,php,python,go,c" />
+<br>
+
+###  flamework
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=7&i=laravel,react,vue,nuxtjs" />
+<br>
+
 
 ## 🏃‍♀ Activities
 <p align="left"> 
