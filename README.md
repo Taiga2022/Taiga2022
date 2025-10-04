@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ##  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTBkMmU4ZG81MmlzeWZ3OTc1YXZubjltY21scnNoZHlzeTF0NWlzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3d2yl0QuHpHdYtfwVh/giphy.webp" width="28"> Skills
 
 ###  tools
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=7&i=graphql,md,docker,aws,git,github,figma,notion,neovim githubactions" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=7&i=graphql,md,docker,aws,git,github,figma,notion,neovim, githubactions" />
 <br>
 
 ###  programming langages
