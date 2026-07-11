@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=7&i=html,css,js,ts,php,python,go,c" />
 <br>
 
-###  flamework
+###  framework
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=7&i=laravel,react,vue,nuxtjs" />
 <br>
 
