@@ -1,47 +1,70 @@
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
+<div align="center">
 
-- 🧑‍💻 I'm a engineer.
-<br>
+# Hi, I'm Taiga 👋
 
-<!--
-**Taiga2022/Taiga2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer
 
-Here are some ideas to get you started:
+Building, learning, and improving one commit at a time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
 
-##  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTBkMmU4ZG81MmlzeWZ3OTc1YXZubjltY21scnNoZHlzeTF0NWlzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3d2yl0QuHpHdYtfwVh/giphy.webp" width="28"> Skills
+## About me
 
-###  tools
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=7&i=graphql,md,docker,aws,git,github,figma,notion,neovim,githubactions" />
-<br>
+- 🧑‍💻 Software engineer
+- 🌱 Always exploring better tools and technologies
+- 🛠️ Interested in building useful, maintainable products
 
-###  programming langages
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=7&i=html,css,js,ts,php,python,go,c,cpp" />
-<br>
+## Tech stack
 
-###  framework
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=7&i=laravel,react,vue,nuxtjs" />
-<br>
-
-
-## 🏃‍♀ Activities
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taiga2022&layout=compact&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Taiga2022&theme=onedark&show_icons=ture" />
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,go,c,cpp&theme=dark&perline=9"
+    alt="Programming languages: HTML, CSS, JavaScript, TypeScript, PHP, Python, Go, C, and C++"
+  />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Taiga2022&theme=onedark&column=8
-)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=laravel,react,vue,nuxtjs,graphql,docker,aws,git,github,githubactions,figma,notion,neovim,md&theme=dark&perline=7"
+    alt="Frameworks and tools: Laravel, React, Vue, Nuxt, GraphQL, Docker, AWS, Git, GitHub, GitHub Actions, Figma, Notion, Neovim, and Markdown"
+  />
+</p>
 
-[![](https://raw.githubusercontent.com/Taiga2022/Taiga2022/main/profile-summary-card-output/gruvbox/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Taiga2022/Taiga2022/main/profile-summary-card-output/gruvbox/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Taiga2022/Taiga2022/main/profile-summary-card-output/gruvbox/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Taiga2022/Taiga2022/main/profile-summary-card-output/gruvbox/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Taiga2022/Taiga2022/main/profile-summary-card-output/gruvbox/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+## GitHub activity
+
+<p align="center">
+  <img
+    src="./profile-summary-card-output/gruvbox/0-profile-details.svg"
+    alt="GitHub profile details"
+  />
+</p>
+
+<p align="center">
+  <img
+    width="49%"
+    src="./profile-summary-card-output/gruvbox/1-repos-per-language.svg"
+    alt="Repositories by language"
+  />
+  <img
+    width="49%"
+    src="./profile-summary-card-output/gruvbox/2-most-commit-language.svg"
+    alt="Most-used languages by commit"
+  />
+</p>
+
+<p align="center">
+  <img
+    width="49%"
+    src="./profile-summary-card-output/gruvbox/3-stats.svg"
+    alt="GitHub statistics"
+  />
+  <img
+    width="49%"
+    src="./profile-summary-card-output/gruvbox/4-productive-time.svg"
+    alt="Productive time"
+  />
+</p>
+
+<p align="center">
+  <sub>Activity cards are generated daily with GitHub Actions.</sub>
+</p>
