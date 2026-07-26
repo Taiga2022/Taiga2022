@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <br>
 
 ###  programming langages
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=7&i=html,css,js,ts,php,python,go,c" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=7&i=html,css,js,ts,php,python,go,c,cpp" />
 <br>
 
 ###  framework
